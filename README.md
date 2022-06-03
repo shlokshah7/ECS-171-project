@@ -1,7 +1,14 @@
 # ECS-171-Project
 
-## Setup
-<INSERT SETUP STEPS HERE>
+## Setup and Requirements for front end
+  Step 1: Download the folder 
+  
+  Step 2: `pip install ipywidgets` and `pip install voila`
+  
+  Step 3: open file name `UserInput_V2.ipynb`, read the instructions in the first commented box and Install the widgetsnbextension package in the         environment containing the Jupyter Notebook server
+  
+  Step 4: Open terminal and run `voila UserInput_V2.ipynb` where file is located, to start frontend server on local host as a .html web page.
+
   
 ## Models
 ### For Supervised Learning Models 

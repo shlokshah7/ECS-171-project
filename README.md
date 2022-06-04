@@ -18,7 +18,7 @@
   sklearn <br />
   scipy <br />
 
-install need:
+install need: <br />
   xgboost via - pip install xgboost or conda install -c conda-forge py-xgboost for conda package manager <br />
   imlearn via - pip install imbalanced-learn
 

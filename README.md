@@ -11,15 +11,15 @@
 
 ## libraries used in supervised model
   provided by Andaconda environment <br />
-  pandas
-  numpy
-  seaborn
-  matplotlib
-  sklearn
-  scipy
+  pandas <br />
+  numpy <br />
+  seaborn <br />
+  matplotlib <br />
+  sklearn <br />
+  scipy <br />
 
 install need:
-  xgboost via - pip install xgboost or conda install -c conda-forge py-xgboost for conda package manager
+  xgboost via - pip install xgboost or conda install -c conda-forge py-xgboost for conda package manager <br />
   imlearn via - pip install imbalanced-learn
 
 ## Models

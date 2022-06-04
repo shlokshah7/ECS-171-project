@@ -10,7 +10,7 @@
   Step 4: Open terminal and run `voila UserInput_V2.ipynb` where file is located, to start frontend server on local host as a .html web page.
 
 ## libraries used in supervised model
-  provided by Andaconda environment
+  provided by Andaconda environment <br />
   pandas
   numpy
   seaborn

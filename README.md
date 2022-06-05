@@ -19,7 +19,7 @@
   scipy <br />
 
 install need: <br />
-  xgboost via - pip install xgboost or conda install -c conda-forge py-xgboost for conda package manager <br />
+  xgboost via - pip install xgboost   <br /> or conda install -c conda-forge py-xgboost for conda package manager  <br />  or conda install -c anaconda py-xgboost <br />
   imlearn via - pip install imbalanced-learn
 
 ## Models

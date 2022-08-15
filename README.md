@@ -1,5 +1,5 @@
 # ECS-171-Project
-
+This project was designed and implemented by Patrick Chen, Shlok Shah, Jai Malegaonkar, Arnib 
 ## Setup and Requirements for front end
   Step 1: Download the folder 
   
